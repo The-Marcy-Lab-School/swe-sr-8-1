@@ -4,7 +4,7 @@ For guidance on setting up and submitting this assignment, refer to the Marcy la
 
 ## Prompt
 
-![Fullstack Diagram](./client-server-database-diagram.svg);
+![Fullstack Diagram](./client-server-database-diagram.svg)
 
 You’ve been given a diagram (see above) showing the three core layers of a fullstack application:
 
