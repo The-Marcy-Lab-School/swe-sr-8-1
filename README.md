@@ -16,7 +16,7 @@ Imagine you’re explaining how these layers work together by using a real-world
 
 Your task:
 
-1. Explain how Instagram works using the three-layer diagram.
+1. Explain how Instagram works using the three-layer diagram (or how you think it _could_ work).
    * What happens when a user opens the app, scrolls through their feed, likes a post, or uploads a new photo?
    * Walk through how data flows from the frontend to the backend and to the database—and back again.
 
